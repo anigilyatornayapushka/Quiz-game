@@ -1,0 +1,11 @@
+altgraph==0.17.4
+docx2txt==0.8
+lxml==4.9.3
+packaging==23.2
+pefile==2023.2.7
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2023.10
+python-decouple==3.8
+python-dotenv==1.0.0
+pywin32-ctypes==0.2.2
+typing_extensions==4.9.0
